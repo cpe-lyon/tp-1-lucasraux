@@ -89,7 +89,7 @@ La commande tail –n 20 /var/log/syslog | head 10 permet d’afficher les ligne
 
 # Exercice 3 : Découverte de l'éditeur de texte nano
 
-1.	
+1.	![GitHub Logo](/assets/exo3.1)
 
 2.	
   
