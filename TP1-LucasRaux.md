@@ -10,7 +10,7 @@ Tp 1 – Bash prise en main
 4.	La section 6 du manuel parle des jeux ainsi que les petits programs amusant disponibles sur le système avec la commande man 6 intro
 
 
-Navigation dans l’arborescence des fichiers
+# Navigation dans l'arborscence des fichiers
 
 1.	Pour aller dans le dossier /var/log on utilise la commande cd /var/log
 
@@ -35,7 +35,7 @@ Navigation dans l’arborescence des fichiers
 11.	Pour supprimer le Dossier2 et son contenu on utilise la commande rm –r
 
 
-Commandes importantes
+# Commands importantes
 
 1.	Pour afficher l’heure on utilise la commande date, la commande time permet de lancer un programme avec des arguments et de définir le moment de l’arrêt du programme.
 
@@ -87,7 +87,7 @@ La commande tail –n 20 /var/log/syslog | head 10 permet d’afficher les ligne
 24.	Le fichier history.log se trouve dans /var/log/apt/history.log
 
 
-Exercice 3 : Découverte de l’éditeur de texte nano
+# Exercice 3 : Découverte de l'éditeur de texte nano
 
 1.	
 
@@ -97,7 +97,7 @@ Exercice 3 : Découverte de l’éditeur de texte nano
 Pour annuler on utilise Alt+U ou sortir sans sauvegarder
  
 
-Exercice 4 : Personnalisation du shell
+# Exercice 4 : Personnalisation du shell
 1.	On créer une copie du fichier .bashrc avec la commande cp .bashrc .bashrc_bak
 2.	 
 3.	 
