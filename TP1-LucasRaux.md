@@ -1,4 +1,4 @@
-Tp 1 – Bash prise en main
+##Tp 1 – Bash prise en main
 
 #  Manuel
 1.	La commande which permet de trouver le ou les chemins d’un exécutable dans les différents répertoires listés dans la variable PATH
