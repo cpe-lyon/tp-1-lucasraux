@@ -99,7 +99,7 @@ Pour annuler on utilise Alt+U ou sortir sans sauvegarder
 
 # Exercice 4 : Personnalisation du shell
 1.	On créer une copie du fichier .bashrc avec la commande cp .bashrc .bashrc_bak
-2.	 
-3.	 
-4.	
+2.	![GitHub Logo](/assets/ex4.1.png) 
+3.	![GitHub Logo](/assets/ex4.3.png)
+4.	![GitHub Logo](/assets/ex4.4.png)
 
