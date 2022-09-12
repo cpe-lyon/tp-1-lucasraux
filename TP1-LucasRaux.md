@@ -91,7 +91,7 @@ La commande tail –n 20 /var/log/syslog | head 10 permet d’afficher les ligne
 
 1.	![GitHub Logo](/assets/ex3.1.png)
 
-2.	
+2.	![GitHub Logo](/assets/ex3.2.png)
   
 3.	Pour d’déplacer les 10 première ligne il faut faire ctrl+K pour cut les 10 première ligne, par la suite avec ctrl+ flèche du bas on colle les lignes à la fin du fichier.
 Pour annuler on utilise Alt+U ou sortir sans sauvegarder
