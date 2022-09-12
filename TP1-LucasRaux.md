@@ -24,7 +24,7 @@
 
 6.	La commande est introuvable, car il faut au préalable s’accorder les droits avec la commande sudo, puis exécutez la commande cd /root
 
-7.  ddd
+7.  ![GitHub Logo](/assets/ex1.7.png)
 
 8.	Il est possible de supprimer le Fichier1, grâce à la commande rm Dossier1/Fichier1 mais il n’est pas possible de supprimer le Dossier1
 
