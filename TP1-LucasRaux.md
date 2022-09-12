@@ -103,3 +103,5 @@ Pour annuler on utilise Alt+U ou sortir sans sauvegarder
 3.	![GitHub Logo](/assets/ex4.3.png)
 4.	![GitHub Logo](/assets/ex4.4.png)
 
+![GitHub Logo](/assets/ex4.4.2.png)
+
