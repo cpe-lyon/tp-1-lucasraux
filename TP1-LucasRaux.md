@@ -89,9 +89,14 @@ La commande tail –n 20 /var/log/syslog | head 10 permet d’afficher les ligne
 
 # Exercice 3 : Découverte de l'éditeur de texte nano
 
-1.	![GitHub Logo](/assets/ex3.1.png)
+1. Copiez le fichier /var/log/syslog dans votre dossier personnel sous le nom log.txt, puis ouvrez-le avec
+nano :
 
-2.	![GitHub Logo](/assets/ex3.2.png)
+![GitHub Logo](/assets/ex3.1.png)
+
+2. Remplacez toutes les occurrences du mot kernel par le mot noyau
+
+![GitHub Logo](/assets/ex3.2.png)
   
 3.	Pour d’déplacer les 10 première ligne il faut faire ctrl+K pour cut les 10 première ligne, par la suite avec ctrl+ flèche du bas on colle les lignes à la fin du fichier.
 Pour annuler on utilise Alt+U ou sortir sans sauvegarder
